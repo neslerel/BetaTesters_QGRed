@@ -6,3 +6,4 @@ La versión beta 0.7.4 incluirá:
 - La herramienta de mover nudos solo marca (recuadra, selecciona) los elementos puntuales (Junctions, Tanks, Reservoirs, Demands y Sources). Una tubería sin nudos extremos o vértices intermedios no será marcada.
 - Lectura correcta de la sección CONTROLS de un INP
 - Corrección en la selección de ficheros .asc para la interpolación de cotas
+- Correción de lectura de válvulas desde INP cuando falta algún dato.

@@ -5,9 +5,9 @@ La versión beta 0.7.5 incluye:
 
 La versión beta 0.7.4 incluye:
 - Error solucionado al cambiar valor del Pattern y no actualizar gráfico.
-- Comprobación de Ids repetido o con longitud superior a 31 carácteres en el editor de Propiedades.
+- Comprobación de Ids repetido o con longitud superior a 31 caracteres en el editor de Propiedades.
 - La herramienta de mover nudos solo marca (recuadra, selecciona) los elementos puntuales (Junctions, Tanks, Reservoirs, Demands y Sources). Una tubería sin nudos extremos o vértices intermedios no será marcada.
 - Lectura correcta de la sección CONTROLS de un INP
 - Corrección en la selección de ficheros .asc para la interpolación de cotas
-- Correción de lectura de válvulas desde INP cuando falta algún dato.
+- Corrección de lectura de válvulas desde INP cuando falta algún dato.
 - Edición de valores por defecto (algunos) a través de una ventana de diálogo.

@@ -4,6 +4,8 @@ La versión beta 0.7.5 incluye:
 - Edición de opciones (algunas) a través de una ventana de diálogo.
 - Corrección de lectura de leyes de control del tipo "IF TANK" o similar.
 - Corrección en la lectura de los .asc (interpolación de cotas) para eliminar múltiples espacios consecutivos.
+- Corrección de lectura de Rules cuyo id contiene la palabra "RULE"
+- No se muestran en QGis las tablas de datos que no tienen representación gráfica (si es un proyecto previo aparecerán hasta que emplees una herramienta que requiera recargar las capas abiertas)
 
 La versión beta 0.7.4 incluye:
 - Error solucionado al cambiar valor del Pattern y no actualizar gráfico.

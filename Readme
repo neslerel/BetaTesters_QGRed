@@ -2,6 +2,8 @@ Please, use the Issues section to inform about some problem in beta version of Q
 
 La versión beta 0.7.5 incluye:
 - Edición de opciones (algunas) a través de una ventana de diálogo.
+- Corrección de lectura de leyes de control del tipo "IF TANK" o similar.
+- Corrección en la lectura de los .asc (interpolación de cotas) para eliminar múltiples espacios consecutivos.
 
 La versión beta 0.7.4 incluye:
 - Error solucionado al cambiar valor del Pattern y no actualizar gráfico.

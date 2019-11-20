@@ -6,6 +6,7 @@ La versión beta 0.7.5 incluye:
 - Corrección en la lectura de los .asc (interpolación de cotas) para eliminar múltiples espacios consecutivos.
 - Corrección de lectura de Rules cuyo id contiene la palabra "RULE"
 - No se muestran en QGis las tablas de datos que no tienen representación gráfica (si es un proyecto previo aparecerán hasta que emplees una herramienta que requiera recargar las capas abiertas)
+- Corrección de la función que recorta Ids superiores a 31 carácteres.
 
 La versión beta 0.7.4 incluye:
 - Error solucionado al cambiar valor del Pattern y no actualizar gráfico.

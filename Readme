@@ -9,7 +9,7 @@ La versión beta 0.7.5 incluye:
 - Corrección de la función que recorta Ids superiores a 31 carácteres.
 - La herramienta de mover nudos ya funciona.
 
-La versión beta 0.7.4 incluye:
+La versión beta 0.7.4 incluye (19/11/2019):
 - Error solucionado al cambiar valor del Pattern y no actualizar gráfico.
 - Comprobación de Ids repetido o con longitud superior a 31 caracteres en el editor de Propiedades.
 - La herramienta de mover nudos solo marca (recuadra, selecciona) los elementos puntuales (Junctions, Tanks, Reservoirs, Demands y Sources). Una tubería sin nudos extremos o vértices intermedios no será marcada.
@@ -18,7 +18,7 @@ La versión beta 0.7.4 incluye:
 - Corrección de lectura de válvulas desde INP cuando falta algún dato.
 - Edición de valores por defecto (algunos) a través de una ventana de diálogo.
 
-Desde la versión 0.7 a la 0.7.3:
+Desde la versión 0.7 a la 0.7.3 (14/11/2019):
 - Reestructuración de todos los iconos 
 - Nuevas herramientas de edición:
     - mover nudos

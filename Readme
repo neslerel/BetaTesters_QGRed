@@ -8,6 +8,7 @@ La versión beta 0.7.5 incluye:
 - No se muestran en QGis las tablas de datos que no tienen representación gráfica (si es un proyecto previo aparecerán hasta que emplees una herramienta que requiera recargar las capas abiertas)
 - Corrección de la función que recorta Ids superiores a 31 carácteres.
 - La herramienta de mover nudos ya funciona.
+- Problema solucionado con el símbolo decimal a la hora de seleccionar elementos para ver propiedades o insertar válvulas o bombas...
 
 La versión beta 0.7.4 incluye (19/11/2019):
 - Error solucionado al cambiar valor del Pattern y no actualizar gráfico.

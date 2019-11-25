@@ -1,12 +1,15 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
-La versión beta 0.7.5 incluye:
+La versión 0.8 incluye:
+- 
+
+La versión beta 0.7.5 incluye (25/11/2019):
 - Edición de opciones (algunas) a través de una ventana de diálogo.
 - Corrección de lectura de leyes de control del tipo "IF TANK" o similar.
 - Corrección en la lectura de los .asc (interpolación de cotas) para eliminar múltiples espacios consecutivos.
 - Corrección de lectura de Rules cuyo id contiene la palabra "RULE"
 - No se muestran en QGis las tablas de datos que no tienen representación gráfica (si es un proyecto previo aparecerán hasta que emplees una herramienta que requiera recargar las capas abiertas)
-- Corrección de la función que recorta Ids superiores a 31 carácteres.
+- Corrección de la función que recorta Ids superiores a 31 caracteres.
 - La herramienta de mover nudos ya funciona.
 - Problema solucionado con el símbolo decimal a la hora de seleccionar elementos para ver propiedades o insertar válvulas o bombas...
 

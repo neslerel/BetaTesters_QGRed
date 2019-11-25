@@ -2,6 +2,8 @@ Please, use the Issues section to inform about some problem in beta version of Q
 
 La versión 0.8 incluye:
 - Cambios visuales a la hora de ver resultados (tanto selección del parámetro, como del tiempo)
+- Opción de ver etiquetas de resultados
+- Mejorada la seleccion de parámetros en los resultados. Si ya se ha cargado previamente un tipo de resultado, al volver a cargarlo es mucho más rápido.
 
 La versión beta 0.7.5 incluye (25/11/2019):
 - Edición de opciones (algunas) a través de una ventana de diálogo.

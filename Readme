@@ -4,6 +4,8 @@ La versión 0.8 incluye:
 - Cambios visuales a la hora de ver resultados (tanto selección del parámetro, como del tiempo)
 - Opción de ver etiquetas de resultados
 - Mejorada la seleccion de parámetros en los resultados. Si ya se ha cargado previamente un tipo de resultado, al volver a cargarlo es mucho más rápido.
+- Cambio de color en la línea media de los Patterns
+- Añadida opción de importar datos desde el Gestor de proyectos. Cambiado nombres de Import--> Load y Delete-->Unload.
 
 La versión beta 0.7.5 incluye (25/11/2019):
 - Edición de opciones (algunas) a través de una ventana de diálogo.

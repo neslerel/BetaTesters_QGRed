@@ -1,6 +1,6 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
-La versión 0.8 incluye:
+La versión 0.8 incluye (28/11/2019):
 - Cambios visuales a la hora de ver resultados (tanto selección del parámetro, como del tiempo)
 - Opción de ver etiquetas de resultados
 - Mejorada la seleccion de parámetros en los resultados. Si ya se ha cargado previamente un tipo de resultado, al volver a cargarlo es mucho más rápido.
@@ -8,6 +8,9 @@ La versión 0.8 incluye:
 - Añadida opción de importar datos desde el Gestor de proyectos. Cambiado nombres de Import--> Load y Delete-->Unload.
 - Selección de pattern con desplegable en las opciones
 - Activación/Desactivación de grupo de Inputs y Results cuando se simula o cierra el visor de resultados
+- Material Unknown al importar desde INP o SHP
+- Inserción de válvulas y bombas sobre la propia tubería y no donde se pulsa con el ratón
+- Eliminada la opción de cargar proyecto desde archivo GQP
 
 La versión beta 0.7.5 incluye (25/11/2019):
 - Edición de opciones (algunas) a través de una ventana de diálogo.

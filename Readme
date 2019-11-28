@@ -11,6 +11,7 @@ La versión 0.8 incluye (28/11/2019):
 - Material Unknown al importar desde INP o SHP
 - Inserción de válvulas y bombas sobre la propia tubería y no donde se pulsa con el ratón
 - Eliminada la opción de cargar proyecto desde archivo GQP
+- Solucionado error con datos de potencia en las bombas (prioridad a la curva frente al campo Power)
 
 La versión beta 0.7.5 incluye (25/11/2019):
 - Edición de opciones (algunas) a través de una ventana de diálogo.

@@ -1,5 +1,8 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
+La versión 0.8.1 incluyes (---):
+- Ordenación de capas corregidas según issue #50
+
 La versión 0.8 incluye (28/11/2019):
 - Cambios visuales a la hora de ver resultados (tanto selección del parámetro, como del tiempo)
 - Opción de ver etiquetas de resultados

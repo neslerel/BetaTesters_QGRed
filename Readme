@@ -2,6 +2,7 @@ Please, use the Issues section to inform about some problem in beta version of Q
 
 La versión 0.8.1 incluyes (---):
 - Ordenación de capas corregidas según issue #50
+- Menú de resultados podrá expandirse y comprimirse para permitir otras herramientas de QGis
 
 La versión 0.8 incluye (28/11/2019):
 - Cambios visuales a la hora de ver resultados (tanto selección del parámetro, como del tiempo)

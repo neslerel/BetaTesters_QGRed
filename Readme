@@ -4,6 +4,8 @@ La versión 0.8.1 incluyes (---):
 - Ordenación de capas corregidas según issue #50
 - Menú de resultados podrá expandirse y comprimirse para permitir otras herramientas de QGis
 - Icono para acceder a los resultados sin simular de nuevo y control de visibilidad de capas según éste.
+- Selección múltiple de elementos en diferentes capas (con Ctrl añade, con Shift quita):
+    - ...
 
 La versión 0.8 incluye (28/11/2019):
 - Cambios visuales a la hora de ver resultados (tanto selección del parámetro, como del tiempo)

@@ -7,6 +7,7 @@ La versión 0.8.1 incluyes (---):
 - Selección múltiple de elementos en diferentes capas (con Ctrl añade, con Shift quita):
     - Borrar elementos seleccionados
 - Corregido error al trabajar con rutas largas
+- Creación de tuberías
 
 La versión 0.8 incluye (28/11/2019):
 - Cambios visuales a la hora de ver resultados (tanto selección del parámetro, como del tiempo)

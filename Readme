@@ -1,13 +1,16 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
-La versión 0.8.1 incluyes (---):
+La versión 0.8.2 incluyes (---):
+- ...
+
+La versión 0.8.1 incluyes (17/01/2020):
 - Ordenación de capas corregidas según issue #50
 - Menú de resultados podrá expandirse y comprimirse para permitir otras herramientas de QGis
 - Icono para acceder a los resultados sin simular de nuevo y control de visibilidad de capas según éste.
 - Selección múltiple de elementos en diferentes capas (con Ctrl añade, con Shift quita):
     - Borrar elementos seleccionados
 - Corregido error al trabajar con rutas largas
-- Creación de tuberías
+- Creación de tuberías, depóstios y embales
 
 La versión 0.8 incluye (28/11/2019):
 - Cambios visuales a la hora de ver resultados (tanto selección del parámetro, como del tiempo)

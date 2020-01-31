@@ -1,6 +1,6 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
-La versión 0.8.2 incluyes (---):
+La versión 0.8.2 incluyes (31/01/2020):
 - Herramienta propia para mover vértices de las líneas.
 - Herramienta para invertir líneas (tuberías, válvulas y bombas)
 - Reestructurado todo el código del plugin para simplificarlo y hacer más eficiente la ejecución de cada herramienta

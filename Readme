@@ -5,6 +5,8 @@ La versión 0.8.3 incluyes (xx/02/2020):
 - Se mantiene el estado de las herramientas de creación (tuberías, válvulas, bombas, depósitos y embalses) después de haber añadido un elemento.
 - Distinción entre las ventanas de Crear y Editar un proyecto.
 - Ampliada herramienta de mover vértices de líneas para tambier crear (clic donde se quiera) o borrar vértices (botón derecho sobre el vértice)
+- Cambios de estilo en la ventana de propiedades de los elementos.
+- Corregida la orientación de Válvulas/Bombas cuando se insertan en tuberías
 
 La versión 0.8.2 incluyes (31/01/2020):
 - Herramienta propia para mover vértices de las líneas.

@@ -1,5 +1,9 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
+La versión 0.9 incluye (10/03/2020):
+- Corregido error con los mensajes en inglés
+- Corregido error con las ventanas de Patterns y Curves desde las propiedades de los elementos
+
 La versión 0.8.4 incluye (04/03/2020):
 - Crear/deshacer cruces
 - Unir líneas (en la misma herramienta de dividir)

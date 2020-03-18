@@ -3,6 +3,9 @@ Please, use the Issues section to inform about some problem in beta version of Q
 La versión 0.9.1 incluye (xx/xx/2020):
 - Corregido mal funcionamiento al crear/importar cuando hay otras cosas abiertas
 - Cabeceras de las secciones del INP en inglés
+- Validación en las propiedades de los elementos para impedir mismo nudo final en líneas.
+- Corregido error al importar depósitos
+- Mejora de la simplificación de vértices para eliminar los repetidos en el punto inicial.
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

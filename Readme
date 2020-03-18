@@ -6,6 +6,7 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Validación en las propiedades de los elementos para impedir mismo nudo final en líneas.
 - Corregido error al importar depósitos
 - Mejora de la simplificación de vértices para eliminar los repetidos en el punto inicial.
+- Corregido error al escribir los Times de Options.
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

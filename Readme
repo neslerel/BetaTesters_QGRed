@@ -8,6 +8,7 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Mejora de la simplificación de vértices para eliminar los repetidos en el punto inicial.
 - Corregido error al escribir los Times de Options.
 - Restructuración de metadatos (se junta el fichero *.gqp y *_TitleAndNodes.txt en uno único: *_Metadata.txt).
+- Corregido error al juntar tuberías de características iguales cuando empieza y acaba en el mismo nudo.
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

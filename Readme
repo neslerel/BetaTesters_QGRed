@@ -10,6 +10,7 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Restructuración de metadatos (se junta el fichero *.gqp y *_TitleAndNodes.txt en uno único: *_Metadata.txt).
 - Corregido error al juntar tuberías de características iguales cuando empieza y acaba en el mismo nudo.
 - Comprueba si hay versiones nuevas (oficiales, no betas) y avisa al usuario.
+- Corregida visualización de iconos en la leyenda para versión 3.12 de QGis
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

@@ -11,6 +11,7 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Corregido error al juntar tuberías de características iguales cuando empieza y acaba en el mismo nudo.
 - Comprueba si hay versiones nuevas (oficiales, no betas) y avisa al usuario.
 - Corregida visualización de iconos en la leyenda para versión 3.12 de QGis
+- Corregido error que impedia guardar los estilos de resultados
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

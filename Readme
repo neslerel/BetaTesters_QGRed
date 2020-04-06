@@ -12,7 +12,9 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Comprueba si hay versiones nuevas (oficiales, no betas) y avisa al usuario.
 - Corregida visualización de iconos en la leyenda para versión 3.12 de QGis
 - Corregido error que impedia guardar los estilos de resultados.
-- Ventana de opciones para la obtción del árbol de mínima resistencia
+- Ventana de opciones para la obtención del árbol de mínima resistencia.
+- Agrupadass layers de árboles por grupo con el nombre del árbol.
+- Corregido error en lectura de símbolo decimal cuando el usuario usa el formato inglés y cambia el símbolo decimal por coma.
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

@@ -17,6 +17,7 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Corregido error en lectura de símbolo decimal cuando el usuario usa el formato inglés y cambia el símbolo decimal por coma.
 - EditProject cambia a LayerManagement para controlar visibilidad de capas y su creación.
 - Ahora la proyección se queda en los PRJ de los SHPs.
+- Nueva ventana con opciones del proyecto (de momento metadatos generales).
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

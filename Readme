@@ -19,6 +19,7 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Ahora la proyección se queda en los PRJ de los SHPs.
 - Nueva ventana con opciones del proyecto (de momento metadatos generales).
 - Separación entre Importar (sin proyecto) y Añadir (con proyecto y solo SHPs - proceso aditivo)
+- Tolerancia espacial al importar/añadir datos desde SHPs.
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

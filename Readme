@@ -21,6 +21,7 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Separación entre Importar (sin proyecto) y Añadir (con proyecto y solo SHPs - proceso aditivo)
 - Tolerancia espacial al importar/añadir datos desde SHPs.
 - Manual incluye formato del archivo ascii para interpolación de cotas y clasificación de los 4 tipos de sectores hidráulicos.
+- Simplificadas 4 capas de medidores en 1 sola.
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

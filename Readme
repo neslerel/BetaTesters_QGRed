@@ -23,6 +23,7 @@ La versión 0.9.1 incluye (xx/xx/2020):
 - Manual incluye formato del archivo ascii para interpolación de cotas y clasificación de los 4 tipos de sectores hidráulicos.
 - Simplificadas 4 capas de medidores en 1 sola.
 - Corregido error al escribir SHPs de issues en válvulas y bombas.
+- Métodos para asignar rugosidad o checkear longitudes, material, diámetro o fecha de instalación ahora también para elementos seleccionados.
 
 La versión 0.9 incluye (10/03/2020):
 - Corregido error con los mensajes en inglés

@@ -1,5 +1,8 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
+La versión 0.10.1 incluye (xx/xx/2020):
+- Corregido error al no permitir horas en formato distinto a AM/PM en la sección Controls
+
 La versión 0.10 incluye (12/05/2020):
 - Corregido mal funcionamiento al crear/importar cuando hay otras cosas abiertas.
 - Cabeceras de las secciones del INP en inglés.

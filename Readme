@@ -1,6 +1,12 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
-La versión 0.10.1 incluye (xx/xx/2020):
+La versión 0.10.3 incluye (xx/xx/2020):
+- ...
+
+La versión 0.10.2 incluye (24/07/2020):
+- Corregido error en la fórmula para obtener el árbol de mínima resistencia
+
+La versión 0.10.1 incluye (15/07/2020):
 - Corregido error al no permitir horas en formato distinto a AM/PM en la sección Controls
 - Controlado error al no poder coger la información del usuario de Windows en determinados ordenadores
 

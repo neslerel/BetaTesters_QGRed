@@ -1,7 +1,7 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
 La versión 0.10.3 incluye (xx/xx/2020):
-- ...
+- Creado Json para definir proyecciones (contenido del .prj)
 
 La versión 0.10.2 incluye (24/07/2020):
 - Corregido error en la fórmula para obtener el árbol de mínima resistencia

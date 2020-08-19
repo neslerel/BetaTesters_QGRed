@@ -5,6 +5,8 @@ La versión 0.10.3 incluye (xx/xx/2020):
 - Lectura de la sección PUMPS también para la versión 1 de Epanet
 - Mensaje al usar sin licencia la herramienta del árbol
 - Nuevo instalador único para ambas arquitecturas (x86 y x64)
+- Se muestran las unidades y la pérdida de carga en la barra de estado.
+- La estimación de la rugosidad en función de la edad y el material admite diferentes fórmulas de pérdida de carga y sistema de unidades
 
 La versión 0.10.2 incluye (24/07/2020):
 - Corregido error en la fórmula para obtener el árbol de mínima resistencia

@@ -9,6 +9,7 @@ La versión 0.10.3 incluye (xx/xx/2020):
 - La estimación de la rugosidad en función de la edad y el material admite diferentes fórmulas de pérdida de carga y sistema de unidades
 - Herramienta para crear copia de seguridad del proyecto
 - Convertido de rugosidades
+- Corregido error al cargar el plugin en la versión de QGis 3.14.15
 
 La versión 0.10.2 incluye (24/07/2020):
 - Corregido error en la fórmula para obtener el árbol de mínima resistencia

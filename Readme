@@ -13,6 +13,7 @@ La versión 0.10.3 incluye (xx/xx/2020):
 - Etiquetas de color azul para los resultados de tipo línea
 - Corregido error al clonar el proyecto y perder los metadatos
 - Corregido error al guardar un escenario de resultados y quedarse congelado el mapa
+- Nuevo orden alfabético en las listas de links y nodes en los Controles Simples
 
 La versión 0.10.2 incluye (24/07/2020):
 - Corregido error en la fórmula para obtener el árbol de mínima resistencia

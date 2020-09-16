@@ -1,6 +1,9 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
 La versión 0.11.1 incluye (xx/xx/2020):
+- Corregido error al mostrar resultados de Calidad (y volver a seleccionar otro tipo)
+- Al cargar un proyecto QGis que contenga a su vez uno de QGISRed refresca las unidades y la fórmula de pérdidas en la barra de estado.
+- Cuando hay una nueva versión aparece la correcta y no la de las dependencias.
 
 La versión 0.10.3 incluye (15/09/2020):
 - Creado Json para definir proyecciones (contenido del .prj)

@@ -1,6 +1,8 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
-La versión 0.10.3 incluye (xx/xx/2020):
+La versión 0.11.1 incluye (xx/xx/2020):
+
+La versión 0.10.3 incluye (15/09/2020):
 - Creado Json para definir proyecciones (contenido del .prj)
 - Lectura de la sección PUMPS también para la versión 1 de Epanet
 - Mensaje al usar sin licencia la herramienta del árbol

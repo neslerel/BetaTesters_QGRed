@@ -5,6 +5,7 @@ La versión 0.11.1 incluye (xx/xx/2020):
 - Al cargar un proyecto QGis que contenga a su vez uno de QGISRed refresca las unidades y la fórmula de pérdidas en la barra de estado.
 - Cuando hay una nueva versión aparece la correcta y no la de las dependencias.
 - Corregido error al no mostrarse en la lista de proyectos los importados desde INP
+- Actualizada Epanet a la versión 2.2
 
 La versión 0.10.3 incluye (15/09/2020):
 - Creado Json para definir proyecciones (contenido del .prj)

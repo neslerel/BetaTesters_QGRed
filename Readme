@@ -10,6 +10,8 @@ La versión 0.11.1 incluye (xx/xx/2020):
 - Corregido error al obtener longitudes negativas al insertar válvulas o bombas en tuberías
 - Mejorada la interfaz para convertir rugosidades
 - Corregido error al acceder a Patterns cuando el Pattern TimeStep es 0:00.
+- Corregido bug al no leer acometidas
+- Gestión de materiales
 
 La versión 0.10.3 incluye (15/09/2020):
 - Creado Json para definir proyecciones (contenido del .prj)

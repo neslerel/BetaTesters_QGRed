@@ -12,6 +12,8 @@ La versión 0.11.1 incluye (xx/xx/2020):
 - Corregido error al acceder a Patterns cuando el Pattern TimeStep es 0:00.
 - Corregido bug al no leer acometidas
 - Gestión de materiales
+- Importar y exportar patterns en formato CSV
+- Importar Demanda y Pattern por nudo de demanda.
 
 La versión 0.10.3 incluye (15/09/2020):
 - Creado Json para definir proyecciones (contenido del .prj)

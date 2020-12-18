@@ -14,6 +14,7 @@ La versión 0.11.1 incluye (xx/xx/2020):
 - Gestión de materiales
 - Importar y exportar patterns/curvas en formato CSV
 - Importar Demanda y Pattern por nudo de demanda.
+- Árbol de mínima resistencia.
 
 La versión 0.10.3 incluye (15/09/2020):
 - Creado Json para definir proyecciones (contenido del .prj)

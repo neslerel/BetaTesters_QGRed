@@ -1,6 +1,9 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
-La versión 0.11.1=0.12 incluye (xx/xx/2020):
+La versión 0.12.1 incluye (xx/xx/2021):
+- 
+
+La versión 0.11.1=0.12 incluye (07/01/2021):
 - Corregido error al mostrar resultados de Calidad (y volver a seleccionar otro tipo)
 - Al cargar un proyecto QGis que contenga a su vez uno de QGISRed refresca las unidades y la fórmula de pérdidas en la barra de estado.
 - Cuando hay una nueva versión aparece la correcta y no la de las dependencias.
@@ -16,6 +19,7 @@ La versión 0.11.1=0.12 incluye (xx/xx/2020):
 - Importar Demanda y Pattern por nudo de demanda.
 - Árbol de mínima resistencia.
 - Importar acometidas
+- Corregido error al volver a simular Epanet (problema con el borrado de capas en Qgis)
 
 La versión 0.10.3=0.11 incluye (15/09/2020):
 - Creado Json para definir proyecciones (contenido del .prj)

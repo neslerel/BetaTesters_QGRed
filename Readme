@@ -2,6 +2,7 @@ Please, use the Issues section to inform about some problem in beta version of Q
 
 La versión 0.12.1 incluye (xx/xx/2021):
 - Corregido error que impedía importar shps seleccionado el mismo campo para varias propiedades.
+- Corregidas algunas traducciones en inglés que aparecían en español
 
 La versión 0.11.1=0.12 incluye (07/01/2021):
 - Corregido error al mostrar resultados de Calidad (y volver a seleccionar otro tipo)

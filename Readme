@@ -3,6 +3,7 @@ Please, use the Issues section to inform about some problem in beta version of Q
 La versión 0.12.2 incluye (xx/xx/2021):
 - Corregidas algunas traducciones en inglés que aparecían en español
 - Corregidas herramientas de selección cuando el CRS de QGIS es diferente al de las capas de QGISRed
+- Corregido error importando cualquier feature sin geometría
 
 La versión 0.12.1 incluye (xx/xx/2021):
 - Corregido error que impedía importar shps seleccionado el mismo campo para varias propiedades.

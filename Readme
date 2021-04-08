@@ -8,6 +8,9 @@ La versión 0.12.2 incluye (xx/xx/2021):
 - Carga de lecturas automáticas en formato tabla y serie
 - Mejora en la edición de Times en las opciones hidráulicas
 - No pregunta el cambiar la rugosidad si no hay elementos en el modelo
+- Edición de propiedades de elementos complementarios
+- Creación de acometidas
+- Eliminación de elementos complementarios
 
 La versión 0.12.1 incluye (xx/xx/2021):
 - Corregido error que impedía importar shps seleccionado el mismo campo para varias propiedades.

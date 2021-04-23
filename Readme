@@ -15,6 +15,7 @@ La versión 0.12.2 incluye (xx/xx/2021):
 - Corregido error borrando patterns en junctions con más de una demanda
 - Nuevo menú de Digital Twin
 - Herramientas para exportar demandas y para borrarlas del modelo
+- Mejora en el acceso a las propiedades de los elementos
 
 La versión 0.12.1 incluye (xx/xx/2021):
 - Corregido error que impedía importar shps seleccionado el mismo campo para varias propiedades.

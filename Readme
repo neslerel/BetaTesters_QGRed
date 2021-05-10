@@ -1,6 +1,6 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
-La versión 0.12.2 incluye (xx/xx/2021):
+La versión 0.12.2 incluye (10/05/2021):
 - Corregidas algunas traducciones en inglés que aparecían en español
 - Corregidas herramientas de selección cuando el CRS de QGIS es diferente al de las capas de QGISRed
 - Corregido error importando cualquier feature sin geometría
@@ -14,7 +14,7 @@ La versión 0.12.2 incluye (xx/xx/2021):
 - Inclusión de Acometidas en la edición de patterns
 - Corregido error borrando patterns en junctions con más de una demanda
 - Nuevo menú de Digital Twin
-- Herramientas para exportar demandas y para borrarlas del modelo
+- Herramientas para exportar demandas y para borrarlas del modelo. Desde el gestor de demandas también se puede importar, exportar y borrar los patterns.
 - Mejora en el acceso a las propiedades de los elementos
 - Corrección en la lectura de fechas en los metadatos (ahora se escribe y se lee con un formato concreto, pero se visualiza con el del usuario).
 

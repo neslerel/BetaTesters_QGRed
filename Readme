@@ -3,6 +3,8 @@ Please, use the Issues section to inform about some problem in beta version of Q
 La versión 0.13.1 incluye (xx/xx/2021):
 - Edición de la geometría de las acometidas
 - La opción demand multiplier permite decimales
+- Selección primero de elementos del DT y luego del modelo
+- Corregido error leyendo metadatos de modelos antiguos
 
 Versión 0.13 (26/05/2021)
 

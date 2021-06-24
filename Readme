@@ -1,7 +1,7 @@
 Please, use the Issues section to inform about some problem in beta version of QGISRed.
 
 La versión 0.14.1 incluye (xx/06/2021):
-- 
+- Corregido error al editar propiedades trabajando con capas raster
 
 La versión 0.14.0 incluye (11/06/2021):
 - Corregido error al instalar plugin sin dependencias
